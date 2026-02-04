@@ -1,5 +1,5 @@
 header{
-    background-color: grey;
+    background-color: #f4f4f4;
     padding: 10px;
     width: 75%;
     text-align: center;
@@ -27,9 +27,10 @@ li{
 }
 
 footer{
-    background-color: grey;
+    background-color: #f4f4f4;
     text-align: left;
     padding: 10px;
+    width: 75%;
 }
 
 a:link {
