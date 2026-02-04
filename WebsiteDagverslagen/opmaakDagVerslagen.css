@@ -14,12 +14,16 @@ nav{
     margin: 20px;
     text-align: center;
     width: 75%;
+    display: inline-block;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: #ffcc00;
 }
 
 article{
     background-color: aliceblue;
-    width: 750px;
-    height: 500px;
+    width: 75%;
+    height: auto;
     padding: 15px;
 }
 li{
