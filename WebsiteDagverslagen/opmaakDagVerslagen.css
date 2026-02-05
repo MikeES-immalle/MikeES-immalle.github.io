@@ -11,13 +11,11 @@ body{
 }
 
 nav{
-    margin: 20px;
     text-align: center;
     width: auto;
     display: inline-block;
-    padding: 10px 25px 10px 25px;
-    background-color: #ffcc00;
-
+    padding: 30px 75px 30px 75px;
+    color: black;
 }
 
 article{
@@ -37,22 +35,16 @@ footer{
     width: 80%;
 }
 
-a:link {
-  color: blue;      
-  text-decoration: none;
-}
-
-a:visited {
-  color: purple;    
+a:link {   
+  color: black;
 }
 
 a:hover {
   color: red;       
-  text-decoration: underline;
+  background-color: red;
 }
 
-a:focus {
-  outline: 2px solid #ffcc00; 
+a:focus { 
   background-color: black;
   color: white;
 }
