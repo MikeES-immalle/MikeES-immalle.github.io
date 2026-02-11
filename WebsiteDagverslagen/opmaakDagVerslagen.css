@@ -26,7 +26,7 @@ nav{
 article{
     background-color: aliceblue;
     width: 75%;
-    height: 450px;
+    height: auto;
     padding: 15px;
     margin: 0 auto;
 }
