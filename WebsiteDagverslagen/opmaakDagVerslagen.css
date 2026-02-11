@@ -23,16 +23,12 @@ nav{
 article{
     background-color: aliceblue;
     width: 75%;
-    height: auto;
+    height: 450px;
     padding: 15px;
     margin: 0 auto;
 }
 li{
     margin: 25px;
-}
-
-blockquote{
-    float: right;
 }
 
 footer{
